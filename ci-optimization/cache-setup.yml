@@ -1,0 +1,19 @@
+name: Dependency Caching
+description: Optimized cache configuration for Yarn/NPM
+
+runs:
+  using: composite
+  steps:
+    - name: Cache dependencies
+      uses: actions/cache@v4
+      with:
+        path: |
+          **/node_modules
+          ~/.cache/yarn
+        key: >
+          ${{ runner.os }}-yarn-
+          ${{ hashFiles('yarn.lock') }}-
+          ${{ github.base_ref }}
+        restore-keys: |
+          ${{ runner.os }}-yarn-${{ hashFiles('yarn.lock') }}-
+          ${{ runner.os }}-yarn-
