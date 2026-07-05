@@ -1,0 +1,1 @@
+There is no runnable code block in this blog post. The entire article is marketing narrative—case studies, claims, and conceptual descriptions of "air-gapped execution graphs"—with zero implementation details, algorithms, or code snippets to extract.
