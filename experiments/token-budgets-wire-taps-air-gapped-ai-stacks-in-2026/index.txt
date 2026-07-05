@@ -1,0 +1,1 @@
+There is no runnable code block in this blog post. The entire article is conceptual/marketing content about token metering and cloud AI billing — it discusses use cases (JPMorgan, GitHub Copilot, Stripe) but provides zero implementation details, scripts, or configuration that could be cloned and executed.
