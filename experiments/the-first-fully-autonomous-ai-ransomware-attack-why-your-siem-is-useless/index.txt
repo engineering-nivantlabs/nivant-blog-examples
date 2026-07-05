@@ -1,0 +1,1 @@
+There is no runnable code block in this blog post. The entire article is narrative commentary and analysis — it contains no source code, scripts, configurations, or technical implementations that a developer could clone and run.
