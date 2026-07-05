@@ -1,0 +1,1 @@
+There is no runnable code block in this blog post. The article is entirely narrative/marketing content—no source code, configuration files, scripts, or JSON payloads are included. It describes a scenario involving Palantir Gotham and Nvidia Morpheus air-gapped AI stacks but provides zero implementable artifacts to clone or run.
